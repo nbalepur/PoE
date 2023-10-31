@@ -3,12 +3,12 @@
 This repository is the official implementation of "Knowing What's Wrong and What's Right: Evaluating Process of Elimination in Large Language Models", soon to be uploaded to Arxiv.
 
 <p align="center">
-  <img src="images/POE_Intro.png">
+  <img src="/images/POE_Intro.png"></img>
 </p>
 
 ## Overview
 
-This repository contains the code and dataset to run the direct answer and process of elimination strategies, with and without chain of thought, on our four tested commonsense reasoning and scientific reasoning datasets
+This repository contains the code and dataset to run the direct answer and process of elimination strategies, with and without chain of thought, on our four tested commonsense reasoning and scientific reasoning multiple-choice QA datasets.
 
 ## Setup
 
