@@ -24,13 +24,13 @@ The most important files in this repository are as follows:
 
 ## Usage
 
-The Huggingface models can run inference with the following command: 
+You can run inference on the Huggingface models with the following command: 
 ```
 python ./model/answer_2_choices_hf.py
 ```
-The file requires the following arguments:
+The script requires the following arguments:
 * `model_name`: (Nick)name of the model for savin the results. String type
-* `model_name_hf`: Name of the model on hugging face. String type
+* `model_name_hf`: Name of the model on huggingface. String type
 * `dataset_name`: Name of the dataset in `/data/`. String type
 * `use_cot`: Should chain of thought prompting be used? String type ("True" for COT, "False" for Base)
 * `answer_type`: "Should we identify correct or incorrect answers? String type ("correct" for DA Strategy, "incorrect" for POE Strategy)
@@ -39,13 +39,17 @@ The file requires the following arguments:
 * `out_dir`: Where to save the outputs. String type
 * `hf_token`: Huggingface token for access to the model. String type
 
-The GPT models can run inference with the following command: 
+<br />
+
+You can run inference on the GPT models with the following command: 
 ```
 python ./model/answer_2_choices_hf.py
 ```
-
-
-
-## Evaluation
-
-
+The file requires the following arguments:
+* `model_name`: (Nick)name of the model for savin the results. String type
+* `model_name_gpt`: Name of the GPT API model. String type
+* `dataset_name`: Name of the dataset in `/data/`. String type
+* `use_cot`: Should chain of thought prompting be used? String type ("True" for COT, "False" for Base)
+* `answer_type`: "Should we identify correct or incorrect answers? String type ("correct" for DA Strategy, "incorrect" for POE Strategy)
+* `out_dir`: Where to save the outputs. String type
+* `open_ai_key`: OpenAI API Key
