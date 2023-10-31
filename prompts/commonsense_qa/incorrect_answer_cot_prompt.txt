@@ -1,0 +1,60 @@
+Question: Where would excitement not be allowed?
+Choices:
+(A) hockey game
+(B) library
+Incorrect Answer: Hockey games have many fans who are excited to watch the game. Thus, excitement is allowed at a hockey game. So the incorrect answer is "hockey game" which is choice (A)
+===
+Question: Where would you find a cottage that gets flooded often?
+Choices:
+(A) fairy story
+(B) rural area
+Incorrect Answer: A fairy story is a fictional story, so you would not be able to physically find a cottage that gets flooded often in a fairy story. So the incorrect answer is "fairy story" which is choice (A)
+===
+Question: As he flipped through a yearbook he had fond memories of playing cornet in his what?
+Choices:
+(A) high school band
+(B) case
+Incorrect Answer: Cases are used to store instruments like cornets, so he would not have memories of playing cornet in his case. So the incorrect answer is "case" which is choice (B)
+===
+Question: If you are deep in a cave, what would you follow to find your way out?
+Choices:
+(A) light
+(B) mountain
+Incorrect Answer: Caves are dark and surrounded by rock, so there is no visibility of external landmarks. Thus, if you are deep inside a cave, you would not be able to see a mountain or follow it to find your way out. So the incorrect answer is "mountain" which is choice (B)
+===
+Question: Stereotypically, people read the newspaper with their family early in the morning. What is something else that people also do with their family when they first wake up?
+Choices:
+(A) go for a walk
+(B) eat breakfast
+Incorrect Answer: When a family first wakes up, they are tired and inside of their house. Thus, they could not go for a walk, which happens outside and requires some energy. So the incorrect answer is "go for a walk" which is choice (A)
+===
+Question: The seats were designed to accommodate cumbersome clothing, where were the seats located?
+Choices:
+(A) space shuttle
+(B) beach
+Incorrect Answer: Beaches are designed to accommodate swimsuits and casual clothing, but this type of clothing is not cumbersome. So the incorrect answer is "beach" which is choice (B)
+===
+Question: Water turns turbines in what type of structure?
+Choices:
+(A) hydroelectric dam
+(B) sump pump
+Incorrect Answer: When water turns turbines, it generates electricity. Sump pumps are used to drain water, not to generate electricity. So the incorrect answer is "sump pump" which is choice (B)
+===
+Question: their dad told the kids to play games, he didn't like seeing them all just sitting around looking what?
+Choices:
+(A) challenge
+(B) bored
+Incorrect Answer: The term "sitting around" means that the kids were not doing much. If the kids were not doing much, they did not look challenged. So the incorrect answer is "challenge" which is choice (A)
+===
+Question: Fish have fins to move underwater, but can't walk because what?
+Choices:
+(A) scales
+(B) no legs
+Incorrect Answer: Fish use their scales for protection and to swim quickly, which is not necessary for walking. So the incorrect answer is "scales" which is choice (A)
+===
+Question: Where above your kitchen sink could you store canned food?
+Choices:
+(A) cupboard
+(B) pantry
+Incorrect Answer: A pantry is a large closet and is not found above the kitchen sink. So the incorrect answer is "pantry" which is choice (B)
+===

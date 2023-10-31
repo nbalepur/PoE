@@ -1,0 +1,60 @@
+Question: carson was a smart person so he tried to fix it. What does Carson need to do before this?
+Choices:
+(A) be stupid
+(B) know how to fix it
+Incorrect Answer: (A)
+===
+Question: Casey wore men's underwear to the drag festival that night. What does Casey need to do before this?
+Choices:
+(A) do nothing
+(B) find men's underwear
+Incorrect Answer: (A)
+===
+Question: alex was skeptical so he called the number. How would you describe Alex?
+Choices:
+(A) untrusting
+(B) relaxed
+Incorrect Answer: (B)
+===
+Question: Alex was speaking to Addison so they turned slowly towards Alex. What will Addison want to do next?
+Choices:
+(A) hear better
+(B) look at Alex
+Incorrect Answer: (A)
+===
+Question: Taylor said Bailey would take hostages for money. What will happen to Bailey?
+Choices:
+(A) be tried as a felon
+(B) serve a 10 year sentence
+Incorrect Answer: (B)
+===
+Question: Bailey wanted to surprise everyone so they cooked everyone breakfast so Jesse and they family ate Bailey's food today. What will Jesse want to do next?
+Choices:
+(A) get ready for bed
+(B) thank Bailey
+Incorrect Answer: (A)
+===
+Question: Jan knew a co-worker well. They worked together for many years. What does Jan need to do before this?
+Choices:
+(A) spend time with them outside of work
+(B) stay away
+Incorrect Answer: (B)
+===
+Question: Sasha loved books and went to the library often. How would you describe Sasha?
+Choices:
+(A) quite curious
+(B) not smart
+Incorrect Answer: (B)
+===
+Question: Austin knew the figurines were delicate so he put them in their place securely. Austin did this because of what?
+Choices:
+(A) buy some delicate figurines
+(B) wanted to make certain the figurines weren't damaged
+Incorrect Answer: (A)
+===
+Question: Kendall felt happy after graduating college in just 3.5 years. What will Kendall want to do next?
+Choices:
+(A) take a trip to Europe
+(B) take a long nap
+Incorrect Answer: (B)
+===

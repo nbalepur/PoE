@@ -1,0 +1,60 @@
+Question: Where would excitement not be allowed?
+Choices:
+(A) hockey game
+(B) library
+Incorrect Answer: (A)
+===
+Question: Where would you find a cottage that gets flooded often?
+Choices:
+(A) fairy story
+(B) rural area
+Incorrect Answer: (A)
+===
+Question: As he flipped through a yearbook he had fond memories of playing cornet in his what?
+Choices:
+(A) high school band
+(B) case
+Incorrect Answer: (B)
+===
+Question: If you are deep in a cave, what would you follow to find your way out?
+Choices:
+(A) light
+(B) mountain
+Incorrect Answer: (B)
+===
+Question: Stereotypically, people read the newspaper with their family early in the morning. What is something else that people also do with their family when they first wake up?
+Choices:
+(A) go for a walk
+(B) eat breakfast
+Incorrect Answer: (A)
+===
+Question: The seats were designed to accommodate cumbersome clothing, where were the seats located?
+Choices:
+(A) space shuttle
+(B) beach
+Incorrect Answer: (B)
+===
+Question: Water turns turbines in what type of structure?
+Choices:
+(A) hydroelectric dam
+(B) sump pump
+Incorrect Answer: (B)
+===
+Question: their dad told the kids to play games, he didn't like seeing them all just sitting around looking what?
+Choices:
+(A) challenge
+(B) bored
+Incorrect Answer: (A)
+===
+Question: Fish have fins to move underwater, but can't walk because what?
+Choices:
+(A) scales
+(B) no legs
+Incorrect Answer: (A)
+===
+Question: Where above your kitchen sink could you store canned food?
+Choices:
+(A) cupboard
+(B) pantry
+Incorrect Answer: (B)
+===

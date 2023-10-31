@@ -1,0 +1,60 @@
+Question: When soil is disrupted to extreme levels
+Choices:
+(A) plants thrive
+(B) environments suffer
+Incorrect Answer: When soil is disrupted to extreme levels, it can decrease soil fertility. If soil fertility is decreased, plants will not be able to thrive. So the incorrect answer is "plants thrive" which is choice (A)
+===
+Question: A rock quarry can contain in its rocks
+Choices:
+(A) foil material
+(B) broken toys
+Incorrect Answer: Rock quarries only contain natural resources like rocks and minerals. Thus, a rock quarry would not contain broken toys, which are human-made. So the incorrect answer is "broken toys" which is choice (B)
+===
+Question: An example of an instinctive behavior is
+Choices:
+(A) a horse following the commands of its rider
+(B) a herd of zebras heading in the direction of rain clouds at the end of the dry season
+Incorrect Answer: An instinctive behavior is an innate response to a stimulus in one’s environment. A horse following the commands of its rider is not an innate response, since the horse only responded because the rider instructed it to respond. So the correct answer is "a horse following the commands of its rider" which is choice (A)
+===
+Question: What to humans do that causes animals to lose their habitats?
+Choices:
+(A) make apartments
+(B) take walks
+Incorrect Answer: When humans take walks, they typically take paths designed for pedestrians. This activity does not involve clearing new land or significantly altering the environment, so it would not cause animals to lose their habitats. So the incorrect answer is "take walks" which is choice (B)
+===
+Question: If a mouse is running in a field with a fence that will provide a shock to those that touch it, and the mouse tries to climb up it, it will most likely
+Choices:
+(A) keep doing it
+(B) be fatally injured
+Incorrect Answer: If the mouse tried to climb up an electric fence, the mouse would be harmed. If the mouse was harmed by climbing the electric fence, the mouse will not continue to do so, because the mouse does not want to be harmed. So the incorrect answer is "keep doing it" which is choice (A)
+===
+Question: How low must be a population of some species drop before it is extinct?
+Choices:
+(A) fifteen
+(B) to nothing
+Incorrect Answer: A species is defined as extinct if it has no living members. If a species had fifteen members, it would not be defined as extinct. So the incorrect answer is "fifteen" which is choice (A)
+===
+Question: if a person has a scar on the face, at what point did they get it?
+Choices:
+(A) after they were born
+(B) at the time of conception
+Incorrect Answer: Scars are formed after the skin has been cut or damaged. At the time of conception, the skin cannot be damaged or cut. So the incorrect answer is "at the time of conception" which is choice (B)
+===
+Question: Which is the most likely scenario
+Choices:
+(A) squirrels save nuts when summer is hotter than the current season
+(B) squirrels save nuts when humans make them
+Incorrect Answer: Most nuts eaten by squirrels come from trees, so it is less likely that squirrels save their nuts after a human has made them. So the incorrect answer is "squirrels save nuts when humans make them" which is choice (B)
+===
+Question: When I play a violin the strings and create sound through
+Choices:
+(A) A new word
+(B) A quake
+Incorrect Answer: Violins create non-verbal sounds, so a violin would not create sounds through words. So the incorrect answer is "A new word" which is choice (A)
+===
+Question: Ice might be formed by
+Choices:
+(A) upper hemisphere
+(B) a temperature higher
+Incorrect Answer: Ice can only be formed at colder temperatures, since warmer temperatures would cause the ice to melt into water. Thus, ice would not form at higher temperatures. So the incorrect answer is "a temperature higher" which is choice (B)
+===
