@@ -3,7 +3,7 @@
 This repository is the official implementation of "Knowing What's Wrong and What's Right: Evaluating Process of Elimination in Large Language Models", soon to be uploaded to Arxiv.
 
 <p align="center">
-  <embed src="/images/POE_Intro.pdf" width="800px" height="2100px" />
+  <img src="/images/POE_Intro.png" />
 </p>
 
 ## Overview
