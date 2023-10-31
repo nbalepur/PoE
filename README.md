@@ -4,12 +4,6 @@ This repository is the official implementation of "Knowing What's Wrong and What
 
 ![Visualization of POE](images/POE_Intro.png)
 
-# Expository Text Generation
-
-This repository is the official implementation of "Expository Text Generation: Imitate, Retrieve, Paraphrase", which was accepted to EMNLP 2023
-
-![Visualization of IRP](images/IRP.png)
-
 ## Overview
 
 This repository contains the code and dataset to run the direct answer and process of elimination strategies, with and without chain of thought, on our four tested commonsense reasoning and scientific reasoning datasets
