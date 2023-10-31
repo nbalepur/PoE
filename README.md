@@ -26,12 +26,22 @@ The most important files in this repository are as follows:
 
 The Huggingface models can run inference with the following command: 
 ```
-python train_imitator.py
+python ./model/answer_2_choices_hf.py
 ```
+The file requires the following arguments:
+* `model_name`: (Nick)name of the model for savin the results. String type
+* `model_name_hf`: Name of the model on hugging face. String type
+* `dataset_name`: Name of the dataset in `/data/`. String type
+* `use_cot`: Should chain of thought prompting be used? String type ("True" for COT, "False" for Base)
+* `answer_type`: "Should we identify correct or incorrect answers? String type ("correct" for DA Strategy, "incorrect" for POE Strategy)
+* `load_in_4bit`: Should we load the model in 4 bit? String type ("True", "False")
+* `cache_dir`: Where to store the model cache. String type
+* `out_dir`: Where to save the outputs. String type
+* `hf_token`: Huggingface token for access to the model. String type
 
 The GPT models can run inference with the following command: 
 ```
-python train_paraphraser.py
+python ./model/answer_2_choices_hf.py
 ```
 
 
