@@ -43,7 +43,7 @@ The script requires the following arguments:
 
 You can run inference on the GPT models with the following command: 
 ```
-python ./model/answer_2_choices_hf.py
+python ./model/answer_2_choices_gpt.py
 ```
 The file requires the following arguments:
 * `model_name`: (Nick)name of the model for savin the results. String type
