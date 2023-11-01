@@ -52,4 +52,4 @@ The file requires the following arguments:
 * `use_cot`: Should chain of thought prompting be used? String type ("True" for COT, "False" for Base)
 * `answer_type`: "Should we identify correct or incorrect answers? String type ("correct" for DA Strategy, "incorrect" for POE Strategy)
 * `out_dir`: Where to save the outputs. String type
-* `open_ai_key`: OpenAI API Key
+* `open_ai_key`: OpenAI API Key. String type
