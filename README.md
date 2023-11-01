@@ -29,7 +29,7 @@ You can run inference on the Huggingface models with the following command:
 python ./model/answer_2_choices_hf.py
 ```
 The script requires the following arguments:
-* `model_name`: (Nick)name of the model for savin the results. String type
+* `model_name`: (Nick)name of the model for saving the results. String type
 * `model_name_hf`: Name of the model on huggingface. String type
 * `dataset_name`: Name of the dataset in `/data/`. String type
 * `use_cot`: Should chain of thought prompting be used? String type ("True" for COT, "False" for Base)
@@ -46,7 +46,7 @@ You can run inference on the GPT models with the following command:
 python ./model/answer_2_choices_gpt.py
 ```
 The file requires the following arguments:
-* `model_name`: (Nick)name of the model for savin the results. String type
+* `model_name`: (Nick)name of the model for saving the results. String type
 * `model_name_gpt`: Name of the GPT API model. String type
 * `dataset_name`: Name of the dataset in `/data/`. String type
 * `use_cot`: Should chain of thought prompting be used? String type ("True" for COT, "False" for Base)
