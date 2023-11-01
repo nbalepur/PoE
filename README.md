@@ -1,6 +1,6 @@
-# Process of Elimination (POE)
+# Process of Elimination (PoE)
 
-This repository is the official implementation of "Knowing What's Wrong and What's Right: Evaluating Process of Elimination in Large Language Models", soon to be uploaded to Arxiv.
+This repository is the official implementation of "Knowing What's Wrong and What's Right: Evaluating Process of Elimination Reasoning in Large Language Models", soon to be uploaded to Arxiv.
 
 <p align="center">
   <img src="/images/POE_Intro.png"></img>
