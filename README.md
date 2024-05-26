@@ -1,6 +1,6 @@
 # Process of Elimination (PoE)
 
-This repository is the official implementation of "It's Not Easy Being Wrong: Evaluating Process of Elimination Reasoning in Large Language Models", which can be viewed [here](https://arxiv.org/abs/2311.07532) on Arxiv.
+This repository is the official implementation of "It's Not Easy Being Wrong: Evaluating Process of Elimination Reasoning in Large Language Models", which was accepted to ACL 2024 (findings) and can be viewed [here](https://arxiv.org/abs/2311.07532) on Arxiv.
 
 <p align="center">
   <img src="/images/POE_Intro.png"></img>
