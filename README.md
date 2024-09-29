@@ -53,3 +53,29 @@ The file requires the following arguments:
 * `answer_type`: "Should we identify correct or incorrect answers? String type ("correct" for DA Strategy, "incorrect" for POE Strategy)
 * `out_dir`: Where to save the outputs. String type
 * `open_ai_key`: OpenAI API Key. String type
+
+
+## Citation
+
+If you found our code/papers useful, you can cite us as follows:
+
+```{bibtex}
+@inproceedings{balepur-etal-2024-easy,
+    title = "It{'}s Not Easy Being Wrong: Large Language Models Struggle with Process of Elimination Reasoning",
+    author = "Balepur, Nishant  and
+      Palta, Shramay  and
+      Rudinger, Rachel",
+    editor = "Ku, Lun-Wei  and
+      Martins, Andre  and
+      Srikumar, Vivek",
+    booktitle = "Findings of the Association for Computational Linguistics ACL 2024",
+    month = aug,
+    year = "2024",
+    address = "Bangkok, Thailand and virtual meeting",
+    publisher = "Association for Computational Linguistics",
+    url = "https://aclanthology.org/2024.findings-acl.604",
+    doi = "10.18653/v1/2024.findings-acl.604",
+    pages = "10143--10166",
+    abstract = "Chain-of-thought (COT) prompting can help large language models (LLMs) reason toward correct answers, but its efficacy in reasoning toward incorrect answers is unexplored. This process of elimination (PoE), when used with COT, can enhance self-consistency, interpretability, and tasks such as medical diagnoses of exclusion. Thus, we propose PoE with COT, where LLMs must reason toward incorrect options on multiple-choice questions. We evaluate the ability of GPT-3.5, LLaMA-2, and Falcon to perform PoE with COT on a total of four commonsense and scientific reasoning datasets. We find that the strategy of PoE always underperforms the strategy of choosing the correct answer. The agreement of these strategies is also lower than the self-consistency of each strategy. To study these issues further, we conduct error analyses and give suggestions for future work.",
+}
+```
